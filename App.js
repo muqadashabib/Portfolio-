@@ -45,10 +45,10 @@ document.addEventListener("DOMContentLoaded", function () {
 document.addEventListener("DOMContentLoaded", function () {
   new Typed(".typing", {
     strings: [
+      "Mentor at Noon Academy",
       "Graphic Designer",
       "Digital Marketer",
       "Social Media Marketer",
-       "Mentor at Noon Academy",
     ],
     typeSpeed: 100,
     backSpeed: 60,
