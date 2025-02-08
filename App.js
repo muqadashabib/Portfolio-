@@ -46,10 +46,9 @@ document.addEventListener("DOMContentLoaded", function () {
   new Typed(".typing", {
     strings: [
       "Graphic Designer",
-      "Video Editor",
       "Digital Marketer",
-      "Content Writer",
       "Social Media Marketer",
+       "Mentor at Noon Academy",
     ],
     typeSpeed: 100,
     backSpeed: 60,
